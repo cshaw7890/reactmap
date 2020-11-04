@@ -16,3 +16,15 @@ svg {
   font-family: sans-serif;
   text-align: center;
 }
+
+.farmer {
+  width: 400px;
+  height: 250px;
+  background: #fff;
+  border-radius: 4px;
+  border: 5px solid #F53;
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  display: none;
+}

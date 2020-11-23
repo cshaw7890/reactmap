@@ -1,3 +1,22 @@
-{ "farm":"Bob's Tomato Farm", "name":"Bob Smith", "participated":"2017-2018", "location":"NJ", "link":"bobsmithtomatofarm.com", "lat":"40", "long":"-74", "key":"bobs" } 
-{ "farm":"Sandy's Potato Farm", "name":"Sandy Cheeks", "participated":"2016", "location":"Bikini Bottom", "link":"sandycheeks.com", "lat":"-50", "long":"20", "key":"sandyc" } 
+{ 
+
+  "farm":"Bob's Tomato Farm", 
+  "name":"Bob Smith", 
+  "participated":"2017-2018", 
+  "location":"NJ", 
+  "link":"bobsmithtomatofarm.com", 
+  "lat":"40", 
+  "long":"-74", 
+  "key":"bobs",
+  
+  "farm":"Sandy's Potato Farm", 
+  "name":"Sandy Cheeks", 
+  "participated":"2016", 
+  "location":"Bikini Bottom", 
+  "link":"sandycheeks.com", 
+  "lat":"-50", 
+  "long":"20", 
+  "key":"sandyc"
+  
+}
 

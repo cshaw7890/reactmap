@@ -4,7 +4,7 @@
      "name":"Bob Smith", 
      "participated":"2017-2018", 
      "location":"NJ", 
-     "link":"bobsmithtomatofarm.com", 
+     "link":"https://bobsmithtomatofarm.com", 
      "lat":"40", 
      "long":"-74", 
      "key":"bobs"
@@ -14,7 +14,7 @@
      "name":"Sandy Cheeks", 
      "participated":"2016", 
      "location":"Bikini Bottom", 
-     "link":"sandycheeks.com", 
+     "link":"https://en.wikipedia.org/wiki/Sandy_Cheeks", 
      "lat":"-50", 
      "long":"20", 
      "key":"sandyc"
